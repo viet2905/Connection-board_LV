@@ -1,0 +1,12 @@
+Added Component: Designator=JP4(JP 1x6 CT)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH004006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Jump Ðon Cái 2.54MM 1x20P Th?ng"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Trig_T3_CH2_C5 Pin=H6-3
+Added Pin To Net: NetName=Trig_T3_CH2_C5 Pin=P2-19
+Added Net: Name=Trig_T3_CH2_C5
+Added Member To Class: ClassName=Sheet1 Member=Component JP4 JP 1x6 2.54
+Added Room: Name=Sheet1

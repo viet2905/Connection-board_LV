@@ -1,0 +1,70 @@
+Removed Pin From Net: NetName=PWM_L Pin=JP4-3
+Removed Pin From Net: NetName=ENB1_E11 Pin=JP4-6
+Removed Pin From Net: NetName=ENA1_E9 Pin=JP4-7
+Removed Pin From Net: NetName=T3_CH4_B1 Pin=JP4-10
+Removed Pin From Net: NetName=T3_CH2_A7 Pin=JP4-12
+Removed Pin From Net: NetName=RX_A3 Pin=JP4-14
+Removed Pin From Net: NetName=RT_A2 Pin=JP4-27
+Removed Pin From Net: NetName=T3_CH1_A6 Pin=JP4-29
+Removed Pin From Net: NetName=T3_CH3_B0 Pin=JP4-31
+Removed Pin From Net: NetName=STBY Pin=JP4-33
+Removed Pin From Net: NetName=PWM_R Pin=JP4-37
+Removed Pin From Net: NetName=R2 Pin=JP5-6
+Removed Pin From Net: NetName=R1 Pin=JP5-7
+Removed Pin From Net: NetName=L1 Pin=JP5-8
+Removed Pin From Net: NetName=L2 Pin=JP5-9
+Removed Pin From Net: NetName=T4_CH3_B8 Pin=JP5-11
+Removed Pin From Net: NetName=Trig_T3_CH1_E0 Pin=JP5-12
+Removed Pin From Net: NetName=Trig_T3_CH3_E4 Pin=JP5-14
+Removed Pin From Net: NetName=GND Pin=JP5-21
+Removed Pin From Net: NetName=5V Pin=JP5-22
+Removed Pin From Net: NetName=T4_CH2_B7 Pin=JP5-32
+Removed Pin From Net: NetName=Trig_T4_CH3_B5 Pin=JP5-33
+Removed Pin From Net: NetName=Trig_T4_CH2_B3 Pin=JP5-34
+Removed Pin From Net: NetName=Trig_T3_CH4_D15 Pin=JP6-7
+Removed Pin From Net: NetName=Trig_T3_CH2_D13 Pin=JP6-8
+Removed Pin From Net: NetName=ENB2_C7 Pin=JP7-4
+Removed Pin From Net: NetName=ENA2_C6 Pin=JP7-7
+Removed Member From Class: ClassName=Sheet1 Member=JP5
+Removed Member From Class: ClassName=Sheet1 Member=JP6
+Removed Member From Class: ClassName=Sheet1 Member=JP7
+Removed Member From Class: ClassName=Sheet1 Member=JP?
+Change Component Designator: OldDesignator=JP? NewDesignator=JP4
+Added Component: Designator=P1(HDR2X25)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P2(HDR2X25)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=P1-2
+Added Pin To Net: NetName=5V Pin=P1-4
+Added Pin To Net: NetName=Trig_T3_CH3_E4 Pin=P1-13
+Added Pin To Net: NetName=Trig_T3_CH1_E0 Pin=P1-17
+Added Pin To Net: NetName=T4_CH3_B8 Pin=P1-19
+Added Pin To Net: NetName=L2 Pin=P1-23
+Added Pin To Net: NetName=T4_CH2_B7 Pin=P1-24
+Added Pin To Net: NetName=L1 Pin=P1-25
+Added Pin To Net: NetName=Trig_T4_CH3_B5 Pin=P1-26
+Added Pin To Net: NetName=R1 Pin=P1-27
+Added Pin To Net: NetName=Trig_T4_CH2_B3 Pin=P1-28
+Added Pin To Net: NetName=R2 Pin=P1-29
+Added Pin To Net: NetName=ENA2_C6 Pin=P1-47
+Added Pin To Net: NetName=ENB2_C7 Pin=P1-48
+Added Pin To Net: NetName=RX_A3 Pin=P2-13
+Added Pin To Net: NetName=RT_A2 Pin=P2-14
+Added Pin To Net: NetName=T3_CH2_A7 Pin=P2-17
+Added Pin To Net: NetName=T3_CH1_A6 Pin=P2-18
+Added Pin To Net: NetName=T3_CH4_B1 Pin=P2-21
+Added Pin To Net: NetName=T3_CH3_B0 Pin=P2-22
+Added Pin To Net: NetName=STBY Pin=P2-26
+Added Pin To Net: NetName=ENA1_E9 Pin=P2-27
+Added Pin To Net: NetName=ENB1_E11 Pin=P2-29
+Added Pin To Net: NetName=PWM_R Pin=P2-34
+Added Pin To Net: NetName=PWM_L Pin=P2-35
+Added Pin To Net: NetName=Trig_T3_CH2_D13 Pin=P2-45
+Added Pin To Net: NetName=Trig_T3_CH4_D15 Pin=P2-47
+Added Member To Class: ClassName=Sheet1 Member=Component P1 Header 25X2
+Added Member To Class: ClassName=Sheet1 Member=Component P2 Header 25X2
+Added Room: Name=Sheet1

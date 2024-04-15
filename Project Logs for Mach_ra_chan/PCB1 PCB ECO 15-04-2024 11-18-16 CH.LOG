@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=Trig_T3_CH1_C4 Pin=H3-3
+Added Pin To Net: NetName=Trig_T3_CH1_C4 Pin=P2-20
+Added Net: Name=Trig_T3_CH1_C4
+Added Room: Name=Sheet1
